@@ -4,21 +4,24 @@
 _ Project Overview
  
 This project analyzes Emergency Room (ER) waiting times using healthcare data.
+
 Based on a previous patient complaints analysis, waiting time was identified as the most frequent issue affecting patient satisfaction.
+
 and that waiting time is not just an operational metric, but a critical factor impacting patient experience and healthcare quality.
 
 This project was developed to further investigate this problem in a critical setting:
+
 Why do waiting times increase in the Emergency Room (ER)?
 
 The goal is to uncover key factors affecting delays and provide actionable recommendations to improve patient experience and hospital efficiency.
 
 _ Objectives
 
-Analyze ER waiting times across urgency levels
-Identify peak hours and patient flow patterns
-Evaluate the impact of staffing (nurse-to-patient ratio)
-Measure patient waiting times 
-Provide data-driven recommendations.
+• Analyze ER waiting times across urgency levels
+• Identify peak hours and patient flow patterns
+• Evaluate the impact of staffing (nurse-to-patient ratio)
+• Measure patient waiting times 
+• Provide data-driven recommendations.
 
 _ Dataset Description
 
@@ -31,7 +34,9 @@ The dataset includes 5,000 ER patient visits with key variables such as:
 • Total Waiting Time
 • Hospital Name
 • Nurse-to-Patient Ratio
- Tools Used
+
+_ Tools Used
+
 • SQL Server → Data cleaning & preparation
 • Power BI → Dashboard creation & visualization
 
@@ -45,8 +50,10 @@ Identifie negative waite times
 • Removed extra  spaces in text fields
 • Checked for unrealistic wait times
 • Veryfied data types
+
 Data Validation
 Before performing analysis , the dataset was Validated to ensure data quality :
+
 • Verified that all time-related values (registration, triage, and doctor waiting times) are logical and non-negative
 • Ensured consistency between calculated total waiting time and individual stage durations
 • Checked for outliers (e.g., extremely high waiting times) and confirmed their validity rather than removing them
