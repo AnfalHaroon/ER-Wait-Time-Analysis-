@@ -1,21 +1,27 @@
 ﻿ER Wait Time Analysis Dashboard
 
- Project Overview
+
+_ Project Overview
+ 
 This project analyzes Emergency Room (ER) waiting times using healthcare data.
 Based on a previous patient complaints analysis, waiting time was identified as the most frequent issue affecting patient satisfaction.
 and that waiting time is not just an operational metric, but a critical factor impacting patient experience and healthcare quality.
 
 This project was developed to further investigate this problem in a critical setting:
 Why do waiting times increase in the Emergency Room (ER)?
+
 The goal is to uncover key factors affecting delays and provide actionable recommendations to improve patient experience and hospital efficiency.
 
-Objectives
+_ Objectives
+
 Analyze ER waiting times across urgency levels
 Identify peak hours and patient flow patterns
 Evaluate the impact of staffing (nurse-to-patient ratio)
 Measure patient waiting times 
 Provide data-driven recommendations.
-Dataset Description
+
+_ Dataset Description
+
 The dataset includes 5,000 ER patient visits with key variables such as:
 • Visit Date & Time
 • Urgency Level (Low, Medium, High, Critical)
@@ -28,7 +34,8 @@ The dataset includes 5,000 ER patient visits with key variables such as:
  Tools Used
 • SQL Server → Data cleaning & preparation
 • Power BI → Dashboard creation & visualization
- Data Cleaning
+
+ _ Data Cleaning
 
 • Removed duplicates and handled missing values
 • Standardized time-related columns
@@ -47,18 +54,23 @@ Before performing analysis , the dataset was Validated to ensure data quality :
 • Cross-checked nurse-to-patient ratios to ensure realistic and meaningful values
 These validation steps helped ensure the dataset was reliable for analysis and supported accurate insights and recommendations.
 
- Key Insights
+ _ Key Insights
+ 
 • Low-urgency patients experience the longest waiting times, indicating high utilization of ER services for non-critical cases
 • Waiting times peak during evening hours, suggesting increased demand after working hours
 • The longest delays occur during the "time to see a doctor" stage, indicating a bottleneck in physician availability
 • The maximum waiting time reached 442 minutes, highlighting potential overcrowding
 • Higher patient-to-nurse ratios are associated with longer waiting times, indicating staffing challenges
-Recommendations
+
+_ Recommendations
+
 • Increase staffing levels during peak hours (especially evenings)
 • Redirect low-acuity patients to outpatient clinics or primary care
 • Optimize triage processes to improve patient prioritization
 • Improve resource allocation across hospitals with higher waiting times
-Dashboard
+
+_ Dashboard
+
 The interactive dashboard was built using Power BI to visualize key metrics such as:
 • Total ER visits
 • Average waiting time
@@ -66,14 +78,17 @@ The interactive dashboard was built using Power BI to visualize key metrics such
 • Time to see a doctor
 • Waiting time by urgency level, hospital, and time of day
 
-Project Impact
+_ Project Impact
+
 This project demonstrates how data analytics can be used to:
 • Improve healthcare efficiency
 • Reduce patient waiting times
 • Support better decision-making in hospitals
 
-Conclusion
+_ Conclusion
+
 This project demonstrates how data analysis can be used to identify inefficiencies in healthcare systems and support better decision-making to improve patient experience and operational performance.
 
- Contact
+ _ Contact
+ 
 Feel free to connect with me on LinkedIn for feedback or collaboration opportunities.
