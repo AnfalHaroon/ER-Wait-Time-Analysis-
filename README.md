@@ -120,6 +120,8 @@ _ Time to see a doctor
 
 _ Waiting time by urgency level, hospital, and time of day
 
+_ Dashboard(Dashboard/your-image.png)
+
 # Project Impact
 
 This project demonstrates how data analytics can be used to:
@@ -128,14 +130,7 @@ _ Improve healthcare efficiency
 
 _ Reduce patient waiting times
 
-_ Support better decision-making in hospitals
-
-# Dashboard 
-
-_ Dashboard(Dashboard/your-image.png)
-
-
-
+_ Support better decision-making in hospitals.
 
 # Conclusion
 
