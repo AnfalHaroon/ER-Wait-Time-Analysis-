@@ -130,6 +130,13 @@ _ Reduce patient waiting times
 
 _ Support better decision-making in hospitals
 
+# Dashboard 
+
+_ Dashboard(Dashboard/your-image.png)
+
+
+
+
 # Conclusion
 
 This project demonstrates how data analysis can be used to identify inefficiencies in healthcare systems and support better decision-making to improve patient experience and operational performance.
