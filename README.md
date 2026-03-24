@@ -120,12 +120,7 @@ _ Time to see a doctor
 
 _ Waiting time by urgency level, hospital, and time of day
 
-
-
-( https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20Wait%20Time%20Analysis%20Dashboard.png? Raw = true)
-
-
-
+![ER Dashboard](https://raw.githubusercontent.com/AnfalHaroon/ER-Wait-Time-Analysis/main/Dashboard/ER%20Wait%20Time%20Analysis%20Dashboard.png)
 
 # Project Impact
 
