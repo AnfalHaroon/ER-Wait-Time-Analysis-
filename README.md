@@ -87,38 +87,40 @@ These validation steps helped ensure the dataset was reliable for analysis and s
 
  # Key Insights
  
-_ Low-urgency patients experience the longest waiting times, indicating high utilization of ER services for non-critical cases
-
-_ Waiting times peak during evening hours, suggesting increased demand after working hours
-
-_ The longest delays occur during the "time to see a doctor" stage, indicating a bottleneck in physician availability
-
-_ The maximum waiting time reached 442 minutes, highlighting potential overcrowding
-
-_ Higher patient-to-nurse ratios are associated with longer waiting times, indicating staffing challenges
+- The doctor stage is the longest step: 45.39 of 81.92 min (about 55% of the average wait).
+  
+- Waits follow triage priority: critical patients wait about 18 min, compared with 174 min for low-urgency patients.
+  
+- Evening waits are the highest: 99.7 min vs. 52.1 min in the early morning.
+  
+- Higher nurse-to-patient ratios were associated with longer waits, which may reflect higher demand or operational pressure.
+  
+- Wait times are similar across all five hospitals (81-83 min), suggesting the issue may extend beyond a single hospital.
+  
+- The maximum recorded wait was 442 minutes.
 
 # Recommendations
 
-_ Increase staffing levels during peak hours (especially evenings)
+- Review staffing and capacity during evening peak hours.
+  
+- Review physician availability and workflow in the "time to see doctor" stage.
+  
+- Direct appropriate low-acuity cases to primary care or outpatient services.
+  
+- Review triage and prioritization so critical patients are seen promptly.
+  
+- Apply and evaluate improvements across all hospitals, since wait times are similar.
 
-_ Redirect low-acuity patients to outpatient clinics or primary care
-
-_Optimize triage processes to improve patient prioritization
-
-_ Improve resource allocation across hospitals with higher waiting times
 
 # Dashboard
 
-The interactive dashboard was built using Power BI to visualize key metrics such as:
-_ Total ER visits
+The interactive Power BI dashboard includes:
 
-_ Average waiting time
-
-_ Maximum waiting time
-
-_ Time to see a doctor
-
-_ Waiting time by urgency level, hospital, and time of day
+- Total ER visits, average and maximum wait time
+- Registration, triage, and time-to-see-doctor stages
+- Wait time by urgency level, time of day, and hospital
+- Impact of nurse-to-patient ratio on wait time
+- A second page with key insights and recommendations
 
 
 https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20Wait%20Time%20Analysis%20Dashboard.png?Raw=true
@@ -126,12 +128,10 @@ https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20W
 
 # Project Impact
 
-This project demonstrates how data analytics can be used to:
+This project shows how data analysis can help:
 
-_ Improve healthcare efficiency
-
-_ Reduce patient waiting times
-
+- Identify where delays happen in the ER process
+- Support evidence-based discussion of staffing and patient flow
 _ Support better decision-making in hospitals.
 
 # Conclusion
