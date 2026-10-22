@@ -1,4 +1,4 @@
-﻿ER Wait Time Analysis Dashboard
+# ﻿ER Wait Time Analysis Dashboard
 
 
 # Project Overview
@@ -123,12 +123,13 @@ The interactive Power BI dashboard includes:
 - A second page with key insights and recommendations
 
 
-![ER Dashboard - Page 1](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard.png)
+![ER Dashboard - Page 1]
+(Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png)
 
 
 
-
-![ER Dashboard - Page 2](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png)
+![ER Dashboard - Page 2]
+(Dashboard/ER%20Wait%20time%20Analysis%20Dashboard.png)
 
 
 
