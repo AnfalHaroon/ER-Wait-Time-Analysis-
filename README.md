@@ -121,6 +121,15 @@ The interactive Power BI dashboard includes:
 - Wait time by urgency level, time of day, and hospital
 - Impact of nurse-to-patient ratio on wait time
 - A second page with key insights and recommendations
+
+
+![ER Dashboard - Page 1](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard.png)
+
+
+![ER Dashboard - Page 2](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png)
+
+
+
   
 https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png
 
