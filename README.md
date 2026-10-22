@@ -6,7 +6,6 @@
 This project analyzes Emergency Room (ER) waiting times using healthcare data.
 
 Based on a previous patient complaints analysis, waiting time was identified as the most frequent issue affecting patient satisfaction.
-
 and that waiting time is not just an operational metric, but a critical factor impacting patient experience and healthcare quality.
 
 This project was developed to further investigate this problem in a critical setting:
@@ -61,14 +60,15 @@ _ Standardized time-related columns
 
 _Created calculated columns for total waiting time
 
-_ Validated data consistency across 
-Identifie negative waite times
+_ Validated data consistency
+
+_ Identified negative wait times
 
 _ Removed extra  spaces in text fields
 
 _ Checked for unrealistic wait times
 
-_ Veryfied data types
+_ Verified data types
 
 # Data Validation
 
