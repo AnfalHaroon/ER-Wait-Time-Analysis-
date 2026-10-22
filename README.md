@@ -126,15 +126,11 @@ The interactive Power BI dashboard includes:
 ![ER Dashboard - Page 1](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard.png)
 
 
+
+
 ![ER Dashboard - Page 2](Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png)
 
 
-
-  
-https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20Wait%20time%20Analysis%20Dashboard1.png
-
-
-https://github.com/AnfalHaroon/ER-Wait-Time-Analysis-/blob/main/Dashboard/ER%20Wait%20time%20Analysis%20Dashboard.png
 
 # Project Impact
 
